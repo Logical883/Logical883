@@ -2,7 +2,7 @@
 - 👀 I’m interested in Graphic Designing most importantly UI/UX Designing
 - 🌱 I’m currently learning UI/UX Designing 
 - 💞️ I’m looking to collaborate on any outstanding project out there
-- 📫 You can reach me or you can check out my portfolio website https://linktr.ee/Logical_Designs 
+- 📫 You can reach me or you can check out my portfolio website [https://linktr.ee/Logical_Designs](https://logical883.github.io/) 
 - 😄 I also respond to Logical as my nickname 
 - ⚡ Fun fact: No competition when I am the champion
 
