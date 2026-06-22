@@ -1,12 +1,40 @@
-- 👋 Hi, I’m @Logical883
-- 👀 I’m interested in Graphic Designing most importantly UI/UX Designing
-- 🌱 I’m currently learning UI/UX Designing 
-- 💞️ I’m looking to collaborate on any outstanding project out there
-- 📫 You can reach me or you can check out my portfolio website [https://linktr.ee/Logical_Designs](https://logical883.github.io/) 
-- 😄 I also respond to Logical as my nickname 
-- ⚡ Fun fact: No competition when I am the champion
+# Hi, I'm Albert Yeboah (Logical) 👋
 
-<!---
-Logical883/Logical883 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Computer Engineering Student at KNUST
+
+🎨 Graphic Designer | UI/UX Designer | Software Developer | Data Annotator
+
+💻 Passionate about building intuitive digital experiences through design and technology.
+
+🚀 Currently exploring Software Development, Artificial Intelligence and Product Design.
+
+🌍 Interested in creating innovative solutions that drive impact across Africa.
+
+🤝 Open to collaborations on web applications, UI/UX projects and technology-driven solutions.
+
+🌐 Portfolio: https://albertportfolio-rho.vercel.app/
+
+---
+
+### Tech Stack
+
+* React.js
+* Node.js
+* JavaScript
+* HTML5 & CSS3
+* Tailwind CSS
+* Git & GitHub
+* Figma
+* Adobe Photoshop
+* Adobe Illustrator
+
+---
+
+### Currently Working On
+
+* Software Development Projects
+* UI/UX Design Systems
+* AI & Emerging Technologies
+* Scalable Digital Products
+
+
