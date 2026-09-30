@@ -1,8 +1,8 @@
 # Hi, I'm Albert Yeboah (Logical) 👋
 
-🎓 Computer Engineering Student at KNUST
+🎓 Computer Engineering Graduate at KNUST
 
-🎨 Graphic Designer | UI/UX Designer | Software Developer | Data Annotator
+🎨 Graphic Designer | UI/UX Designer | Software Developer | Data Annotator | ML & Data Scientist 
 
 💻 Passionate about building intuitive digital experiences through design and technology.
 
@@ -20,9 +20,12 @@
 
 * React.js
 * Node.js
+* Python
+* Golang
+* MongoDB
+* Postgres
+* GraphQL  
 * JavaScript
-* HTML5 & CSS3
-* Tailwind CSS
 * Git & GitHub
 * Figma
 * Adobe Photoshop
@@ -33,6 +36,7 @@
 ### Currently Working On
 
 * Software Development Projects
+* ML & Data Science Projects
 * UI/UX Design Systems
 * AI & Emerging Technologies
 * Scalable Digital Products
